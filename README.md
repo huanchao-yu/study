@@ -1,4 +1,2 @@
-# study
-study github
-
-it's my first edit.
+it's my second edit.
+it's my third edit.
